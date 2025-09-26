@@ -1,6 +1,6 @@
 # Blinking Embedded LED
 
-```arduino
+```c
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
 }
