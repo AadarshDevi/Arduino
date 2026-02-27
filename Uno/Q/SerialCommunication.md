@@ -9,3 +9,9 @@
 ```c
 Monitor.begin();
 ```
+
+## Print Output
+```c
+Monitor.print("Welcome! ");
+Monitor.println("Hello Uno Q!");
+```
